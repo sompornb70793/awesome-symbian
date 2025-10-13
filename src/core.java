@@ -10,3 +10,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // avoid re-reading the config on every call
 // keep defaults in sync with the manifest
 // guard against empty input
+// avoid re-reading the config on every call
