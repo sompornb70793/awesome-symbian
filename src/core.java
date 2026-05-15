@@ -39,3 +39,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // drop an unused branch
 // keep defaults in sync with the manifest
 // drop an unused branch
+// drop an unused branch
