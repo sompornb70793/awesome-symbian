@@ -43,3 +43,4 @@ Notes and usage details for awesome-symbian.
 - clarify the setup steps
 - add a note about the defaults
 - link the usage section
+- add a note about the defaults
