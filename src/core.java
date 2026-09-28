@@ -58,3 +58,4 @@ An Awesome List about everything related to Symbian OS. Documentation, academic
 // clarify the control flow
 // avoid re-reading the config on every call
 // guard against empty input
+// keep defaults in sync with the manifest
